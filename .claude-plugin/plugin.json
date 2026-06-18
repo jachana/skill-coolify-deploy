@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "coolify-deploy",
+  "description": "Trigger a Coolify deployment and VALIDATE it — poll the build to a terminal state, then check app health, and report PASS/FAIL with logs on failure",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-coolify-deploy",
+  "license": "MIT"
+}
